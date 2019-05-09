@@ -1,0 +1,8 @@
+com\wrike\FooterPage.class
+com\wrike\BasePage.class
+com\wrike\BasePageTest.class
+com\wrike\ResendPageTest.class
+com\wrike\ResendPage.class
+com\wrike\WebDriverSettings.class
+com\wrike\TestTask.class
+com\wrike\FooterPageTest.class
